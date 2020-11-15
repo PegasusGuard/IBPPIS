@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1601372431 source:g:\Безопасность\pr4\main.cpp
+	<iostream>
+	<windows.h>
+

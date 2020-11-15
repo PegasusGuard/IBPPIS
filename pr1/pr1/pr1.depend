@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1600591965 source:g:\Безопасность\1\pr1\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+	<string.h>
+	<windows.h>
+	<iostream>
+

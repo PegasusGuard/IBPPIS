@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1602453997 source:g:\Безопасность\pr6\main.cpp
+	<iostream>
+	<algorithm>
+	<windows.h>
+	<math.h>
+	<array>
+

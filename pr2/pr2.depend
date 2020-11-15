@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1601364407 source:g:\Безопасность\pr2\main.cpp
+	<iostream>
+	<windows.h>
+	<string>
+

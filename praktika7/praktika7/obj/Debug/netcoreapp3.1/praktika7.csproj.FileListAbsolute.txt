@@ -1,0 +1,13 @@
+G:\Безопасность\c#\praktika7\praktika7\bin\Debug\netcoreapp3.1\praktika7.exe
+G:\Безопасность\c#\praktika7\praktika7\bin\Debug\netcoreapp3.1\praktika7.deps.json
+G:\Безопасность\c#\praktika7\praktika7\bin\Debug\netcoreapp3.1\praktika7.runtimeconfig.json
+G:\Безопасность\c#\praktika7\praktika7\bin\Debug\netcoreapp3.1\praktika7.runtimeconfig.dev.json
+G:\Безопасность\c#\praktika7\praktika7\bin\Debug\netcoreapp3.1\praktika7.dll
+G:\Безопасность\c#\praktika7\praktika7\bin\Debug\netcoreapp3.1\praktika7.pdb
+G:\Безопасность\c#\praktika7\praktika7\obj\Debug\netcoreapp3.1\praktika7.csprojAssemblyReference.cache
+G:\Безопасность\c#\praktika7\praktika7\obj\Debug\netcoreapp3.1\praktika7.csproj.CoreCompileInputs.cache
+G:\Безопасность\c#\praktika7\praktika7\obj\Debug\netcoreapp3.1\praktika7.AssemblyInfoInputs.cache
+G:\Безопасность\c#\praktika7\praktika7\obj\Debug\netcoreapp3.1\praktika7.AssemblyInfo.cs
+G:\Безопасность\c#\praktika7\praktika7\obj\Debug\netcoreapp3.1\praktika7.dll
+G:\Безопасность\c#\praktika7\praktika7\obj\Debug\netcoreapp3.1\praktika7.pdb
+G:\Безопасность\c#\praktika7\praktika7\obj\Debug\netcoreapp3.1\praktika7.genruntimeconfig.cache

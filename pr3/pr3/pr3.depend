@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1601364073 source:g:\Безопасность\pr3\pr3\main.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<cctype>
+	<algorithm>
+
