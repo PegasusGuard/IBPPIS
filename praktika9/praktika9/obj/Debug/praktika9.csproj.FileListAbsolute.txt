@@ -1,0 +1,7 @@
+G:\Безопасность\c#\praktika9\praktika9\bin\Debug\praktika9.exe.config
+G:\Безопасность\c#\praktika9\praktika9\bin\Debug\praktika9.exe
+G:\Безопасность\c#\praktika9\praktika9\bin\Debug\praktika9.pdb
+G:\Безопасность\c#\praktika9\praktika9\obj\Debug\praktika9.csprojAssemblyReference.cache
+G:\Безопасность\c#\praktika9\praktika9\obj\Debug\praktika9.csproj.CoreCompileInputs.cache
+G:\Безопасность\c#\praktika9\praktika9\obj\Debug\praktika9.exe
+G:\Безопасность\c#\praktika9\praktika9\obj\Debug\praktika9.pdb
