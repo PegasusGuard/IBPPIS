@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+1ov7+vhAtbHnuA+2TyHhxTHLD6dZ4Dia/O/+Ajwzx46frUx/srgrUjlXCCS5XEyObrSuMO4128INrGL+x5wIg==",
+  "success": true,
+  "projectFilePath": "G:\\Безопасность\\c#\\praktika8\\praktika8\\praktika8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\George\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\George\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\George\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
